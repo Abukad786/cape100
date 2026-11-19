@@ -1,0 +1,10 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.kotlin/
+*.apk
+# Personal data – never goes to GitHub
+backup/
+import/*.json

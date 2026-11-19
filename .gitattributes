@@ -1,0 +1,5 @@
+# The cloud build runs on Linux: shell scripts need Unix line endings.
+gradlew text eol=lf
+*.sh text eol=lf
+*.jar binary
+*.keystore binary
